@@ -1,9 +1,6 @@
-
 export enum SecurityStatus {
-  SAFE = 'SAFE',
-  SCANNING = 'SCANNING',
-  WARNING = 'WARNING',
-  BREACH = 'BREACH'
+  SAFE = "SEGURO",
+  BREACH = "INVADIDO"
 }
 
 export interface SecurityLog {
