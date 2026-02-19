@@ -1,0 +1,7 @@
+{
+  "name": "CyberShield AI - Antihack 24/7",
+  "description": "Uma central de monitoramento avançada que utiliza IA para detectar intrusões, emitir alertas sonoros e fornecer instruções imediatas de proteção em tempo real.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
